@@ -8,7 +8,7 @@ def mock_config():
     return {
     "api": {
         "api_type": "openrouter",
-        "api_key": "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",
+        "api_key": "<api_key>",
         "api_url": "https://openrouter.ai/api/v1/chat/completions"
     },
     "models": {
