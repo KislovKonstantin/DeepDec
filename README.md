@@ -74,9 +74,6 @@ The project is designed for:
 7. Upload json file with report of analysis, reconstruction of code, code with comments and aggregation of these answers.
 8. Go back to the main menu and repeat 4-7 points if necessary.
 
-## Support
-A100 (in every sense)
-
 ## Testing
 Unit tests, integration tests, end-to-end tests (backend) and manual testing (frontend+backend) were conducted.
 
